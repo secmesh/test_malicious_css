@@ -1,0 +1,4 @@
+body:after {
+    content: '<script>alert("Pawned")</script>';
+    display: none;
+}
